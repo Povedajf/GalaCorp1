@@ -1,0 +1,23 @@
+# WordPress core files
+wp-admin/
+wp-includes/
+
+# Configuration file
+wp-config.php
+
+# Uploads directory
+wp-content/uploads/
+
+# Cache and temporary files
+wp-content/cache/
+wp-content/upgrade/
+
+# Plugin and theme specific ignores
+wp-content/plugins/
+wp-content/themes/
+
+# Other common ignores
+.htaccess
+*.log
+*.sql
+*.sqlite
